@@ -1,6 +1,6 @@
 [project]
 name = "word-wrap"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wrap text to a width, honouring existing indentation."
 requires-python = ">=3.10"
 dependencies = []
